@@ -1,0 +1,28 @@
+The following packages and modules are required for running the program
+
+->Packages:
+
+ 1)SpeechRecognition
+ 2)Pillow 
+ 3)PyAudio
+
+->Instructions to install the required packages
+
+ Run the terminal and execute the following commands 
+
+ 1) pip install SpeechRecognition
+
+ 2) pip install Pillow
+
+ 3) * pip install pipwin
+    * pipwin install pyaudio
+
+->Modules which are utilized:
+
+ 1) webbrowser
+ 2) os
+ 3) time
+ 4) tkinter
+ 5) PIL
+ 6) speech_recognition
+
