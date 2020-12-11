@@ -1,2 +1,3 @@
 # voicebaseddirectorysearch
-This is a python based application which can be used to access computer using voice command to search directories, websites and to open applications within the computer.
+A voice-based application built using Python to perform operations such as opening directories, opening websites within the computer. It is developed using Tkinter for GUI and SQLite3 as a database engine.
+
